@@ -6,7 +6,7 @@
 
 ---
 
-- [Week 15 - React TicTacToe CP](#week-15---react-tictactoe-cp)
+- [Week 15 - React TicTacToe CP](#week-15---react-tictactoe-checkpoint)
 
   - [Reminder](#reminder)
   - [Background](#background)
@@ -208,7 +208,7 @@ Now we need to add scripts to the `package.json` scripts section to look like th
 
 > `Consider This`
 > What do you think that the `react-scripts` does here?
->> The script generates the required files and folders to start the React application and run it on the browser. 
+>> The script generates the required files and folders to start the React application and run it on the browser.
 This allows you to focus on coding your application without having to bother with build configurations.
 
 ---
