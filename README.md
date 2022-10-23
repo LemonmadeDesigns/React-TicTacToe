@@ -1,4 +1,4 @@
-# Week 15 - React TicTacToe CP
+# Week 15 - React TicTacToe Checkpoint
 
 <!-- REPLACE WITH MY OWN IMAGE -->
 
